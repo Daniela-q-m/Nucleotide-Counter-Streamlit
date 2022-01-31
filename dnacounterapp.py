@@ -4,9 +4,9 @@ import altair as alt
 from PIL import Image
 from Bio.SeqUtils import GC
 
-image=Image.open('/Users/danielaquijano/Desktop/dnalogo.png')
+#image=Image.open('/Users/danielaquijano/Desktop/dnalogo.png')
 
-st.image(image, use_column_width=True)
+#st.image(image, use_column_width=True)
 
 st.header("""
 DNA Nucleotide Counter App
